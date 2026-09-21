@@ -78,12 +78,13 @@ p { margin-bottom: 12px; }
 
 /* --- Navegación Desktop --- */
 .nav-desktop { display: none; }
-.nav-desktop ul { display: flex; gap: 24px; align-items: center; }
+.nav-desktop ul { display: flex; gap: 18px; align-items: center; }
 .nav-desktop a { font-weight: 600; font-size: .9rem; color: var(--texto); position: relative; padding: 4px 0; }
 .nav-desktop a:hover { color: var(--verde); }
 .nav-desktop a::after { content: ''; position: absolute; bottom: 0; left: 0; width: 0; height: 2px; background: var(--rojo); transition: width .3s; }
 .nav-desktop a:hover::after { width: 100%; }
-.nav-cta { background: var(--rojo); color: var(--blanco) !important; padding: 10px 20px; border-radius: var(--radius); }
+.nav-cta { background: var(--rojo); color: var(--blanco) !important; padding: 10px 16px; border-radius: var(--radius); white-space: nowrap; flex-shrink: 0; font-size: .85rem; }
+.nav-cta .icon { font-size: .95rem; }
 .nav-cta:hover { background: var(--rojo-dark) !important; }
 .nav-cta::after { display: none !important; }
 

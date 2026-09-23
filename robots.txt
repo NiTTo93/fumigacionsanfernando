@@ -1,4 +1,4 @@
-# robots.txt — Islaplaga (fumigacionsanfernando.es)
+# robots.txt — Salinas Plagas (fumigacionsanfernando.es)
 
 # ── Crawlers de IA (GEO: permitir explícitamente) ──
 User-agent: GPTBot

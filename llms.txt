@@ -1,4 +1,4 @@
-# Islaplaga
+# Salinas Plagas
 
 > Empresa de fumigación y control de plagas en San Fernando, Cádiz. Tratamientos certificados para cucarachas, ratones, termitas, chinches, avispas y desinfección en viviendas, locales y comunidades. Teléfono: 856 634 541. Servicio a domicilio en ['San Fernando (centro, Camposoto, Zona Bazán, San José, Torre Alta)', 'Bahía de Cádiz'].
 
@@ -31,7 +31,7 @@
 - [Plagas en comunidades de vecinos](https://fumigacionsanfernando.es/blog/fumigacion-comunidad-vecinos-san-fernando.html)
 
 ## Datos clave
-- Nombre: Islaplaga
+- Nombre: Salinas Plagas
 - Teléfono: 856 634 541
 - Web: https://fumigacionsanfernando.es
 - Área de servicio: ['San Fernando (centro, Camposoto, Zona Bazán, San José, Torre Alta)', 'Bahía de Cádiz']

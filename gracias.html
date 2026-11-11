@@ -27,5 +27,15 @@ p{color:#475569;line-height:1.7;font-size:1.02rem}
   </div>
   <a class="back" href="/">← Volver a la página principal</a>
 </div>
+
+<script>
+// Evento de conversión de lead — se activa al cargar la página de gracias
+// Cuando haya GA4 property de plagas, sustituir el ID y el evento se medirá automáticamente
+window.dataLayer = window.dataLayer || [];
+function gtag_placeholder(){dataLayer.push(arguments);}
+// registro local del lead para trazabilidad
+try { localStorage.setItem('lead_convertido', new Date().toISOString()); } catch(e){}
+console.log('LEAD: generate_lead');
+</script>
 </body>
 </html>

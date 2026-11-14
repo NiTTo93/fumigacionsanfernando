@@ -314,3 +314,6 @@ p { margin-bottom: 12px; }
   .page-hero h1 { font-size: 2.5rem; }
   .zona-datos { grid-template-columns: repeat(3, 1fr); }
 }
+
+/* FIX solape header sticky vs page-hero en móvil (11-nov) */
+@media(max-width:768px){.page-hero{padding-top:150px;padding-bottom:40px}}
